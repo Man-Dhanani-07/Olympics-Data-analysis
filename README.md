@@ -26,6 +26,7 @@ A comprehensive Streamlit dashboard analyzing historical Olympics data using vis
 
 ---
 
+## 📸 Screenshots
 - ![Screenshot 2025-05-31 204219](https://github.com/user-attachments/assets/ddcf4e0f-5f00-45e3-8821-978b1030f632)
 - ![Screenshot 2025-05-31 204153](https://github.com/user-attachments/assets/dd9a189a-70a2-4893-b521-9e938e5797d6)
 - ![Screenshot 2025-05-31 204306](https://github.com/user-attachments/assets/19901c06-be08-48a3-adad-33da640ce712)
