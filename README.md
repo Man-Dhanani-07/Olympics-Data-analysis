@@ -4,8 +4,6 @@ A comprehensive Streamlit dashboard analyzing historical Olympics data using vis
 
 ---
 
-## <a href="https://iconscout.com/icons/youtube" class="text-underline font-size-sm" target="_blank">Youtube</a> by <a href="https://iconscout.com/contributors/alexis-doreau" class="text-underline font-size-sm">Alexis Doreau</a> on <a href="https://iconscout.com" class="text-underline font-size-sm">IconScout</a> https://youtu.be/bRbpRpU5gdA
-
 ## 📊 Features
 
 - 📍 Medal Tally (Year-wise and Country-wise)
