@@ -4,6 +4,12 @@ A comprehensive Streamlit dashboard analyzing historical Olympics data using vis
 
 ---
 
+## 🎥 Demo Video
+
+👉 [Watch the demo on YouTube](https://youtu.be/bRbpRpU5gdA?si=pLBRxs3ggISQhX6M)
+
+---
+
 
 ## 📊 Features
 
