@@ -1,6 +1,6 @@
 # 🏅 Olympics Data Analysis Dashboard
 
-A comprehensive Streamlit dashboard analyzing historical Olympics data using visualizations and statistics. Built as a final year project for academic and placement purposes.
+𝐎𝐥𝐲𝐦𝐩𝐢𝐜𝐬 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 Dashboard This is an interactive web application built with Streamlit that allows users to explore and analyze over 120 years of Olympics data. It offers multiple insights like medal tallies, country-wise performance, athlete trends, and using powerful visualizations.
 
 ---
 
